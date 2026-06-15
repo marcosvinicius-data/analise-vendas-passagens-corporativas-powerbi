@@ -93,13 +93,13 @@ Durante o desenvolvimento do projeto foram realizadas as seguintes etapas:
 
 ## 🖼️ Dashboard
 
-### Capa
+### Home
 
-![Capa](Imagens/1_home)
+![Home](Imagens/1_home.png)
 
 ### Dashboard Executivo
 
-![Dashboard Executivo](Imagens/2_dashboard_executivo)
+![Dashboard Executivo](Imagens/2_dashboard_executivo.png)
 
 ---
 
