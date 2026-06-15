@@ -95,11 +95,11 @@ Durante o desenvolvimento do projeto foram realizadas as seguintes etapas:
 
 ### Capa
 
-![Capa](imagens/1_home)
+![Capa](Imagens/1_home)
 
 ### Dashboard Executivo
 
-![Dashboard Executivo](imagens/2_dashboard_executivo)
+![Dashboard Executivo](Imagens/2_dashboard_executivo)
 
 ---
 
